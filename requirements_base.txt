@@ -1,0 +1,5 @@
+numpy
+pandas
+tqdm
+argparse
+torchtext==0.13.0
